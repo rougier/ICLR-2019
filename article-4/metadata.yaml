@@ -93,8 +93,8 @@ dates:
 # This information will be provided by the editor
 article:
   - number: 4
-  - doi:    
-  - url:    
+  - doi:    10.5281/zenodo.3162114
+  - url:    https://zenodo.org/record/3162114/files/article.pdf
 
 # This information will be provided by the editor
 journal:

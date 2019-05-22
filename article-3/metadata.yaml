@@ -41,7 +41,7 @@ keywords: PDE, PDE Solver, Deep Learning, Python, PyTorch
 #   see https://guides.github.com/activities/citable-code/
 code:
   - url: https://github.com/francescobardi/pde_solver_deep_learned
-  - doi:
+  - doi: 10.5281/zenodo.2660730
 
 # Date URL and DOI (optional if no data)
 data:
@@ -102,8 +102,8 @@ dates:
 # This information will be provided by the editor
 article:
   - number: 3
-  - doi:    
-  - url:    
+  - doi:    10.5281/zenodo.3162890
+  - url:    https://zenodo.org/record/3162890/files/article.pdf
 
 # This information will be provided by the editor
 journal:
